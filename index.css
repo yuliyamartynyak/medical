@@ -20,4 +20,29 @@ padding-top: 10rem;
   background-size: cover;
 }
 
+.about-medical-cluster {
+   padding-top: 5rem;
+  padding-bottom: calc(10rem - 72px);
+  background-size: cover; 
+} 
+
+.article-about-medical-cluster {
+    margin: 30px;
+    border: 20px;
+}
+
+@media (min-width: 665px) {
+.article-about-medical-cluster {
+    column-count:2; 
+    }
+
+   .about-medical-cluster-directions {
+    margin-left: 0;
+    padding-left: 0;
+   }
+
+.directions {
+    list-style-type: none;
+    text-decoration: none;
+}
 
