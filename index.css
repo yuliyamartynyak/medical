@@ -57,8 +57,7 @@ padding-top: 10rem;
 .formBox{
 	justify-content: center;
 	background-size: cover;
-	padding-top: 5rem;
-	padding-bottom: 5rem;
+	padding: 5rem;
 }
 .formBox  h3{
 	margin: 0;
@@ -117,8 +116,3 @@ padding-top: 5rem;
     }
 
   
-  
-  
-  
-  
-    }
