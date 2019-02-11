@@ -1,7 +1,7 @@
 
  body {
      min-width: 670px;
-     max-width: 960px;
+     max-width: 1500px;
  }
  
  .navbar {
@@ -39,7 +39,7 @@ padding-top: 10rem;
 
 @media (min-width: 665px) {
 .article-about-medical-cluster {
-    column-count:2; 
+    column-count:2; }
     }
 
    .about-medical-cluster-directions {
@@ -52,32 +52,32 @@ padding-top: 10rem;
     text-decoration: none;
 }
 
-.card {
-    margin: 20px;
-}
+
 
 
 .formBox{
-	margin-top: 90px;
-	padding: 50px;
+	justify-content: center;
+	background-size: cover;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 }
-.formBox  h1{
+.formBox  h3{
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	margin-bottom: 50px;
+	margin-bottom: 35px;
 	text-transform: uppercase;
-	font-size: 48px;
+	font-size: 1.5rem;
 }
 .inputBox{
 	position: relative;
 	box-sizing: border-box;
-	margin-bottom: 50px;
+	margin-bottom: 35px;
 }
 .inputBox .inputText{
 	position: absolute;
     font-size: 24px;
-    line-height: 50px;
+    line-height: 35px;
     transition: .5s;
     opacity: .5;
 }
@@ -104,10 +104,22 @@ textarea{
 }
 .button{
 	width: 100%;
-    height: 50px;
+    height: 35px;
     border: none;
     outline: none;
     background: #03A9F4;
     color: #fff;
 }
     
+    
+    .page-footer {
+padding-top: 5rem;
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.4) 0%, rgba(92, 77, 66, 0.9) 100%), url("/img/map.png");
+    }
+
+  
+  
+  
+  
+  
+    }
