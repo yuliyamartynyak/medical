@@ -1,2 +1,2 @@
 /* global $ */
-$('direction-cosmetology').fadeOut(1000);
+$('direction-cosmetology').fadeIn(1000);
