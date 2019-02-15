@@ -1,3 +1,3 @@
 /*global $*/
-$('direction-cosmetology').fadeOut(3000);
+$('.direction-cosmetology').fadeIn(3000);
 
