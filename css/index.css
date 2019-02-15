@@ -19,7 +19,7 @@ body {
 .banner-container {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 72px);
-    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.4) 0%, rgba(92, 77, 66, 0.9) 100%), url("img/map.png");
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.4) 0%, rgba(92, 77, 66, 0.9) 100%), url(":/img/map.png");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -154,5 +154,5 @@ textarea {
 
 .page-footer {
     padding-top: 5rem;
-    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.4) 0%, rgba(92, 77, 66, 0.9) 100%), url("img/map.png");
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.4) 0%, rgba(92, 77, 66, 0.9) 100%), url(":/img/map.png");
 }
